@@ -25,7 +25,7 @@ int main() {
         double promedio_ponderado = suma_productos / suma_pesos;
         printf("El promedio ponderado es: %.2lf\n", promedio_ponderado);
     } else {
-        printf("No se ingresaron pesos válidos.\n");
+        printf("No se ingresaron porcentaje válidos.\n");
     }
 
     return 0;
